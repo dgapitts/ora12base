@@ -1,7 +1,7 @@
 
 # project ora12base
 
-The ora12base project, is a relevantly simple vagrant project to automate setup an Oracle 12c environment running on Centos 6.6.
+The ora12base project, is a relevantly simple vagrant project to automate setup an Oracle 12c environment running on Centos 6.6. I am starting this project using the opscode_centos-6.6_chef-provisionerless.box, I chose this image as this virtual machine can extend upto nearly 40G.
 
 ### From your host machine
 
